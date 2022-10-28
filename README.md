@@ -1,5 +1,4 @@
-# DyREx
-DyReX: Dynamic Query Representation for Extractive Question Answering, accepted at ENSLP@NeurIPS2022
+# DyReX: Dynamic Query Representation for Extractive Question Answering
 
 ```bibtex
 @inproceedings{Zaratiana2022DyRExDQ,
