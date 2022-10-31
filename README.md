@@ -1,4 +1,4 @@
-# DyReX: Dynamic Query Representation for Extractive Question Answering
+# DyREx: Dynamic Query Representation for Extractive Question Answering
 
 ```bibtex
 @inproceedings{Zaratiana2022DyRExDQ,
